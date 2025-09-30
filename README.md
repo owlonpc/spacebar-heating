@@ -1,2 +1,2 @@
 # spacebar-heating
-The the pinnacle of engineering.
+THE the pinnacle of engineering.
